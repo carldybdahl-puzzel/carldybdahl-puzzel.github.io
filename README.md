@@ -8,5 +8,6 @@ Look at [this page](/testpage.html), [this page](/testpage.html?id=1) and [this 
  * [Page 4](/page4.html)
  * [Page 5](/page5.html)
  * [New Page](/new_page.html)
+ * [New Page 2](/new_page_2.html)
 
 See also [this page](/test%20document.pdf).
