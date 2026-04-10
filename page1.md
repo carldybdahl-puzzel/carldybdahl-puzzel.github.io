@@ -1,5 +1,9 @@
 # You can cancel your StreamWiz account at any time.
 
+**Article Title**
+
+*Concatenate this*
+
 NOTE: This is the only way to cancel your account and end your membership. Signing out of your account or deleting the StreamWiz app doesn't cancel your account.
 When membership charges stop
 
