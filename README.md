@@ -11,3 +11,5 @@ Look at [this page](/testpage.html), [this page](/testpage.html?id=1) and [this 
  * [New Page 2](/new_page_2.html)
 
 See also [this page](/test%20document.pdf).
+
+Look at [the folder](/folder).
