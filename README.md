@@ -12,4 +12,4 @@ Look at [this page](/testpage.html), [this page](/testpage.html?id=1) and [this 
 
 See also [this page](/test%20document.pdf).
 
-Look at [the folder](/folder).
+Look at [the folder](/folder) and [the other folder](/folder2).
